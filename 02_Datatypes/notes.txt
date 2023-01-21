@@ -1,0 +1,13 @@
+There are 2 important java types :-
+
+Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double.
+
+Non-primitive data types: The non-primitive data types include Classes, Interfaces, and Arrays.
+
+variable is a place we can store values.
+
+there are  different types of varible :-
+local , static , instance , final 
+
+
+
