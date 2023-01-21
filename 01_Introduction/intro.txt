@@ -1,0 +1,43 @@
+Why Learn Java ?
+
+Simple and easy to Learn
+
+Open source 
+
+Embedded -> we can use c++ or c codes 
+
+compiled and interpreted
+
+Robust -> it has a grabadge collector which collects un-used memory 
+
+it has large library and framworks 
+
+
+Java is a class based high level oops programming language -> devloped by james Gosling in year 1995
+
+
+Syntax :-
+
+class class_name
+{
+    public static void main(string avgs[])
+    {
+        // codes
+    } 
+}
+
+Java comments :-
+
+// -> single line comments
+/*   ....   */ -> multi line comments
+
+
+The most important thing you should know that File name and the public should be same to same
+
+for example :-
+
+if you are creating a Java file name intro.java then 
+
+inside the program :- 
+
+public class intro
