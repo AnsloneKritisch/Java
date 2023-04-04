@@ -1,0 +1,82 @@
+Java -> Programming Language , oops , Class , high level programming
+oak -> Java
+
+app , web , cyber security 
+
+
+C++ is platform-dependent. -> Java is platform-independent.
+
+C++ is mainly used for system programming. -> ava is mainly used for application programming.
+
+C++ supports the goto statement. -> Java doesn't support the goto statement.
+
+
+C++ supports multiple inheritance.-> Java doesn't support multiple inheritance through class.
+
+C++ supports pointers. -> Java supports pointer internally. However, you can't write the pointer program in java.
+
+C++ supports structures and unions. -> Java has built-in thread support.
+
+
+
+
+
+
+public Class Class_name
+{
+    public static void main(string avgs[])
+    {
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+comments :-
+
+// -> single line comments
+/**/ -> Multi line comment
+
+total four types of varible :-
+
+local , static , instance/global 
+
+Data types :-
+
+Primitive types :- int , float , double , long , string , char 
+
+Non-Primitive Type :- array , object , class , interface 
+
+
+Primitive types :- 
+int -> 4 bytes -? 1 3 
+float -> 4 bytes -> 1.2 , 1.5
+double -> 8 bytes -> 1.2574685
+long -> 8 bytes -> 455555555555555555555555
+string -> " This is a string "
+char -> 2 bytes -> "word"
+boolean -> 1bit -> true and false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
