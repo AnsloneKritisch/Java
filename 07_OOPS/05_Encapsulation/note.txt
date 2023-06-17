@@ -1,0 +1,5 @@
+Encapsulation is a mechanisms through which we can bind the data members and member methords in single unit 
+
+It is mainly used for securty purpose 
+
+by keeping my sensetive data hide using private class or variable 

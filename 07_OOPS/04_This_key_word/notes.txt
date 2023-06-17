@@ -1,0 +1,18 @@
+This keyword referto the current object inside a methord or constructor .
+
+every classs have unique refernce number :
+
+When we create a object the object is refers to the classs refernce number
+
+same as 
+
+when you use this keyword it works as the same , it refer to the refrence number of class just like the object .
+
+------------------------------------------------------------------------------------
+
+whenever the name of instance and local varibles both are same then our runtime environment are same then my jvam gets confused , we can used this key word to solve this problem 
+
+
+
+
+

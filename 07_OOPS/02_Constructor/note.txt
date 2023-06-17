@@ -1,0 +1,11 @@
+copy constructors in java 
+
+class  classname
+{
+    classname (obj ref)
+    {
+
+    }
+}
+
+copy constructor copys whole data into another object
