@@ -1,0 +1,28 @@
+Polymorphism = poly means many , morphism means form 
+
+it means many forms 
+
+Polymorphism is the greek word whose meaning is " same object having different behavior " .
+
+It is of two types 
+
+compile term polymorphisms - 
+
+A polymorphism which is exist only at the time of compilation is called compile time polymorphism
+
+It's methord overloading ->
+
+when a class contain more than one methord with same name and different types of parameters called method overloading (same name different parameters)
+
+
+Runtime polymorphism
+
+A polymorphism which is exist only at the time of compilation is called runtime polymorphism
+
+Example :- 
+methord overriding 
+
+when two class contain same name methord with different types of parameters is called methord overriding 
+
+
+

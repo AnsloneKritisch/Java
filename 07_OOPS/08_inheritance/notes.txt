@@ -1,0 +1,29 @@
+Inheritance 
+
+when we construct a new class from existing class in such a way that the new class access all the methods of other class .
+
+Extends -> is the keyword that can help us use Inheritance
+
+
+code :-
+
+class a 
+{
+
+}
+
+class b extends abstract  // after using extend keyword, it can be used do inherit 
+{
+
+}
+
+always make , the sub class as object which inheits class ;
+
+example here "b" will be the sub class ;
+
+
+There types of classes that :- 
+
+1> simple Inheritance class
+2> Multi level Inheritance class
+3> Muntiple Inheritance class

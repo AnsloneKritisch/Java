@@ -1,0 +1,11 @@
+Interface is just like a class which contains only abstract methoed 
+
+to achiver interface in java by the help of implements/ interface keyword
+
+Note -> 
+
+Inside the interface the values are public + static and final 
+
+
+@Override annotation is used to indicate that a method in a subclass is intended to override a method with the same signature in its superclass. It helps to ensure that the method in the subclass is actually overriding a method in the superclass and not accidentally creating a new method.
+
