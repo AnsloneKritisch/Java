@@ -1,0 +1,10 @@
+Multithreading is a process to execute multiple thread 
+at the same time without dependecy of other threads at the same time without dependecy of other threads called multithreading 
+
+Thread is a pre defined class which is avaialble in java.lnang package.
+
+multi tasking  mein 2 different program run ho hai and in 2 program hoga but kuch sub classs wait karta hai 
+
+but multithreading mein sara task sar sub   class ek sath run karta hai
+
+

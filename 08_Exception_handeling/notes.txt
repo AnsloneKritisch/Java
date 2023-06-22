@@ -1,0 +1,10 @@
+Exception Handling 
+
+An Exception is UNEXPECTED / UNWANTED /ABNORMAL situation that occured at runtime called exception  
+
+thow keyword is used when we want to createe an exception 
+ony one exception at a time 
+
+thows keyword is used when we want to declare an exception and bypass the caller 
+multiple exceprtion at a timw 
+

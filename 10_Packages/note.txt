@@ -1,0 +1,7 @@
+A package arrange number of classes , interfaces and sub-packages of same type a particular groups.
+
+note :- 
+package is nothing but folder in windows 
+
+types -> pre defined , user defined  
+
